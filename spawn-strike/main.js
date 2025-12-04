@@ -1,3 +1,5 @@
+// Screeps Arena Git Spawn Strike main.js
+
 import { getObjectsByPrototype } from 'game/utils';
 import { StructureSpawn } from 'game/prototypes';
 import { ATTACK, MOVE, ERR_NOT_IN_RANGE } from 'game/constants';
